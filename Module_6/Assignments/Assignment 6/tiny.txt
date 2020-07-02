@@ -1,0 +1,7 @@
+cat
+tac
+cot
+bat
+can
+bam
+zzz
