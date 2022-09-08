@@ -25,4 +25,7 @@ Coded in jGRASP IDE
     0.00  ┤╰╯   ╰╯    ╰╯╰
 
     Chart last updated - Thu Sep  8 13:23:50 2022 UTC
-    ```
+
+---
+
+> RepoStats by [Wumphlett](https://github.com/Wumphlett)
