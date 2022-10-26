@@ -4,7 +4,7 @@ Fundamentals of Computing 2 with Dean Hendrix at Auburn University
 Coded in jGRASP IDE
 
 ```
-    Total Views per Day from 2022-08-25 to 2022-10-25
+    Total Views per Day from 2022-08-25 to 2022-10-26
 
     Repository Views
   145.00  ┼                                                   ╭╮
@@ -22,9 +22,9 @@ Coded in jGRASP IDE
    29.00  ┤      │ │││ │ │      ││ │ │      ╭╯│ ││       ╭╮││╭╯ │   ││
    19.33  ┤      │ ││╰╮│ │      ││╭╯ │      │ │╭╯│       │││││  │╭╮ │╰─╮
     9.67  ┼╮╭─╮╭╮│ ╰╯ ││ │  ╭╮╭─╯││  │╭╮  ╭─╯ ╰╯ ╰─╮    ╭╯││╰╯  ╰╯│ │  │
-    0.00  ┤╰╯ ╰╯╰╯    ╰╯ ╰──╯╰╯  ╰╯  ╰╯╰──╯        ╰────╯ ╰╯      ╰─╯  ╰
+    0.00  ┤╰╯ ╰╯╰╯    ╰╯ ╰──╯╰╯  ╰╯  ╰╯╰──╯        ╰────╯ ╰╯      ╰─╯  ╰─
 
-    Chart last updated - Tue Oct 25 02:23:11 2022 UTC
+    Chart last updated - Wed Oct 26 02:01:35 2022 UTC
     
 ```
 
